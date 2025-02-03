@@ -1,0 +1,14 @@
+emp1,asdjkn,Male,22,adjkn,asdjnk,dajknn,Flight Management,30000.0
+testemp1,jnk,Male,22,jnk,jnk,jnf,Flight Management,8888.0
+emp,asmdk,Male,22,asdkm,asdkn,sajn,Booking,30000.0
+bryanX,Jubayer,Male,22,emp1@gmail.com,01712345678,Basundhara R/A,Flight Management,25000.0
+ethan_09,Ahamed,Male,23,emp2@gmail.com,01723456789,Gulshan 2,Ticket Management,26000.0
+henry_king,Karim,Male,25,emp3@gmail.com,01734567890,Dhanmondi,Flight Management,27000.0
+kylie12,Shila,Female,26,emp4@gmail.com,01745678901,Mirpur DOHS,Ticket Management,24000.0
+noah_next,Farhan,Male,28,emp5@gmail.com,01756789012,Uttara,Flight Management,28000.0
+quinnZ,Nadia,Female,24,emp6@gmail.com,01767890123,Banani,Ticket Management,23000.0
+tommyX,Tanvir,Male,30,emp7@gmail.com,01778901234,Shantinagar,Flight Management,30000.0
+wallyW,Anika,Female,27,emp8@gmail.com,01789012345,Tejgaon,Ticket Management,25500.0
+finnZ,Hasan,Male,32,emp9@gmail.com,01790123456,Baridhara,Flight Management,32000.0
+izzyY,Mehnaz,Female,29,emp10@gmail.com,01701234567,Badda,Ticket Management,27000.0
+lucy_o,Rakib,Male,26,emp11@gmail.com,01712345670,Mohakhali,Flight Management,26000.0

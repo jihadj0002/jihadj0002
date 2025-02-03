@@ -1,0 +1,44 @@
+f1,zz,aa,mm,xx,m,mm,mm,22,0
+f2,ss,ss,ss,ss,ss,ss,ss,11,wq
+aa,ask,djkasn,asdkjn,adjn,akdjn,asdkjn,sakjn,9999,20
+F-1,f1,adjkn,asdjkn,kjdn,kdn,aksjn,asdjk,8888,21
+F-01,AirBlue,Dhaka,Chattogram,2025-03-01,10:30 AM,2025-03-01,11:45 AM,4500,50
+F-02,Regal Airways,Dhaka,Sylhet,2025-03-02,08:00 AM,2025-03-02,09:15 AM,5200,45
+F-03,Skylink Airlines,Dhaka,Cox’s Bazar,2025-03-03,12:30 PM,2025-03-03,02:00 PM,7500,60
+F-04,JetStar Airways,Sylhet,Chattogram,2025-03-04,06:00 AM,2025-03-04,07:30 AM,4700,40
+F-05,Swift Wings,Rajshahi,Dhaka,2025-03-05,07:45 AM,2025-03-05,08:50 AM,4000,55
+F-06,Falcon Airlines,Barishal,Jessore,2025-03-06,09:00 AM,2025-03-06,10:10 AM,3500,30
+F-07,Eagle Airlines,Dhaka,Khulna,2025-03-07,03:00 PM,2025-03-07,04:30 PM,6000,25
+F-08,Sunbird Airways,Chattogram,Dhaka,2025-03-08,05:00 PM,2025-03-08,06:15 PM,4800,35
+F-09,BlueSky Airways,Sylhet,Dhaka,2025-03-09,07:00 PM,2025-03-09,08:20 PM,5300,50
+F-10,AirFalcon,Khulna,Rajshahi,2025-03-10,11:00 AM,2025-03-10,12:30 PM,3900,20
+F-11,Delta Wings,Barishal,Dhaka,2025-03-11,01:30 PM,2025-03-11,02:40 PM,4500,45
+F-12,StarJet Airways,Dhaka,Chattogram,2025-03-12,10:30 AM,2025-03-12,11:50 AM,4800,30
+F-13,Elite Air,Dhaka,Rajshahi,2025-03-13,09:00 AM,2025-03-13,10:10 AM,4200,60
+F-14,Comet Airlines,Jessore,Sylhet,2025-03-14,02:00 PM,2025-03-14,03:45 PM,5700,40
+F-15,Orbit Wings,Dhaka,Cox’s Bazar,2025-03-15,08:00 PM,2025-03-15,09:30 PM,7000,55
+F-16,Phoenix Airlines,Sylhet,Rajshahi,2025-03-16,05:30 AM,2025-03-16,07:00 AM,4600,25
+F-17,Sprint Airlines,Dhaka,Jessore,2025-03-17,06:45 AM,2025-03-17,08:00 AM,4100,50
+F-18,Galaxy Air,Dhaka,Saidpur,2025-03-18,04:15 PM,2025-03-18,05:30 PM,3800,40
+F-19,Horizon Airways,Dhaka,Barishal,2025-03-19,07:30 PM,2025-03-19,08:50 PM,4400,35
+F-20,Zephyr Airlines,Rajshahi,Dhaka,2025-03-20,11:00 AM,2025-03-20,12:15 PM,4300,45
+F-21,AeroStar Airlines,Saidpur,Dhaka,2025-03-21,03:30 PM,2025-03-21,04:40 PM,3900,50
+F-22,Nova Air,Dhaka,Khulna,2025-03-22,01:00 PM,2025-03-22,02:30 PM,5700,60
+F-23,Odyssey Airways,Chattogram,Barishal,2025-03-23,06:45 PM,2025-03-23,08:00 PM,5100,20
+F-24,Infinity Airlines,Dhaka,Sylhet,2025-03-24,09:20 AM,2025-03-24,10:40 AM,5200,30
+F-25,Helios Airways,Dhaka,Cox’s Bazar,2025-03-25,07:00 PM,2025-03-25,08:20 PM,7300,40
+F-26,Magellan Airlines,Barishal,Dhaka,2025-03-26,05:00 AM,2025-03-26,06:10 AM,4000,25
+F-27,Frontier Wings,Dhaka,Rajshahi,2025-03-27,04:00 PM,2025-03-27,05:15 PM,4300,55
+F-28,Cosmos Airways,Dhaka,Jessore,2025-03-28,02:45 PM,2025-03-28,04:00 PM,4100,50
+F-29,Vega Airlines,Chattogram,Sylhet,2025-03-29,08:15 AM,2025-03-29,09:45 AM,4700,60
+F-30,AstroJet Airlines,Dhaka,Khulna,2025-03-30,11:00 AM,2025-03-30,12:30 PM,5800,30
+F-31,Hyperion Airways,Dhaka,Cox’s Bazar,2025-03-31,06:30 PM,2025-03-31,08:00 PM,7100,25
+F-32,Polaris Air,Rajshahi,Dhaka,2025-04-01,10:00 AM,2025-04-01,11:20 AM,4200,40
+F-33,Artemis Airways,Dhaka,Barishal,2025-04-02,12:00 PM,2025-04-02,01:30 PM,4500,35
+F-34,Neptune Airlines,Sylhet,Chattogram,2025-04-03,07:30 PM,2025-04-03,09:00 PM,4800,20
+F-35,Andromeda Airways,Dhaka,Sylhet,2025-04-04,05:30 AM,2025-04-04,06:45 AM,5300,55
+F-36,Pegasus Airlines,Dhaka,Rajshahi,2025-04-05,08:15 AM,2025-04-05,09:45 AM,4400,50
+F-37,Orion Air,Dhaka,Jessore,2025-04-06,09:30 PM,2025-04-06,10:50 PM,4000,40
+F-38,Aether Airlines,Dhaka,Khulna,2025-04-07,07:00 AM,2025-04-07,08:30 AM,5900,30
+F-39,Starlight Airways,Dhaka,Cox’s Bazar,2025-04-08,06:00 PM,2025-04-08,07:30 PM,7200,25
+F-40,Solaris Air,Dhaka,Sylhet,2025-04-09,02:00 PM,2025-04-09,03:15 PM,5000,50

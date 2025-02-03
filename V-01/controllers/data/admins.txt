@@ -1,0 +1,10 @@
+admin,admin,male,15,admin@gmail.com,017935040100,Basundhara R/A,admin
+alex01,John Doe,Male,40,johndoe@gmail.com,017123456789,Gulshan 2,Base Admin
+diana_k,Jane Smith,Female,29,janesmith@gmail.com,018234567890,Dhanmondi,Customer Admin
+grace_m,Michael Johnson,Male,45,michaelj@gmail.com,019345678901,Mirpur DOHS,Base Admin
+jackyM,Sarah Williams,Female,32,sarahw@gmail.com,016456789012,Uttara,Customer Admin
+mia_star,David Brown,Male,37,davidb@gmail.com,017567890123,Banani,Base Admin
+peter_pan,Emily Davis,Female,28,emilyd@gmail.com,018678901234,Shantinagar,Customer Admin
+sophia_l,James Wilson,Male,42,jamesw@gmail.com,019789012345,Tejgaon,Base Admin
+vincent_n,Linda Martinez,Female,30,lindam@gmail.com,016890123456,Baridhara,Customer Admin
+bettyCool,Robert Anderson,Male,50,roberta@gmail.com,017901234567,Badda,Base Admin
